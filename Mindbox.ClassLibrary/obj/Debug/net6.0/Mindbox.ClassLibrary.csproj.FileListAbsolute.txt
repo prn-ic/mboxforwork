@@ -1,0 +1,12 @@
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.csproj.AssemblyReference.cache
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.AssemblyInfoInputs.cache
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.AssemblyInfo.cs
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\bin\Debug\net6.0\Mindbox.ClassLibrary.deps.json
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\bin\Debug\net6.0\Mindbox.ClassLibrary.dll
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\bin\Debug\net6.0\Mindbox.ClassLibrary.pdb
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.dll
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\refint\Mindbox.ClassLibrary.dll
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\Mindbox.ClassLibrary.pdb
+D:\Crycixion\Mindbox\Mindbox.ClassLibrary\obj\Debug\net6.0\ref\Mindbox.ClassLibrary.dll
